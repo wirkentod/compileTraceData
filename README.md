@@ -5,4 +5,7 @@ Compile pcap files to csv traces
 ~$ cd pypcapfile
 ~$ sudo python setup.py install
 #Download compileTraceData
-~$ 
+~$ https://github.com/wirkentod/compileTraceData.git
+#Save traces data in /Traces/trazaX
+#Exe script
+~$ sudo python calculateSubNetByTrace 
